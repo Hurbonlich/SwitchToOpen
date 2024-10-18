@@ -7,7 +7,7 @@
   - [RiskWatch](https://www.riskwatch.com/) (Outil open source pour l'évaluation et la gestion des risques de sécurité)
   - [SimpleRisk](https://www.simplerisk.com/) (Outil open source pour la gestion des risques d'entreprise, facile à installer et à utiliser)
   - [ERamba](https://www.eramba.org/) (Outil de gestion des risques et de la conformité, open source avec des fonctionnalités avancées de gestion de risques)
-  - [CISO Assistant](https://ciso-assistant.io/) (Outil open source pour les CISO et responsables de la sécurité, facilitant la gestion des risques, des audits et de la conformité)
+  - ❤️ [CISO Assistant](https://ciso-assistant.io/) (Outil open source pour les CISO et responsables de la sécurité, facilitant la gestion des risques, des audits et de la conformité)
 
 ## Outils de gestion de la conformité réglementaire
 - **Propriétaires** : MetricStream, SAP GRC
@@ -16,7 +16,7 @@
   - [Osquery](https://osquery.io/) (Outil open source pour surveiller les configurations système et auditer la conformité en temps réel)
   - [ComplianceAsCode](https://complianceascode.github.io/) (Projet open source visant à automatiser la gestion de la conformité avec des politiques codées en machine)
   - [Wazuh](https://wazuh.com/) (Plateforme open source de sécurité et gestion des événements, avec modules pour l'audit de conformité)
-  - [CISO Assistant](https://ciso-assistant.io/) (Outil open source pour les CISO et responsables de la sécurité, facilitant la gestion des risques, des audits et de la conformité)
+  - ❤️ [CISO Assistant](https://ciso-assistant.io/) (Outil open source pour les CISO et responsables de la sécurité, facilitant la gestion des risques, des audits et de la conformité)
 
 
 ## Gestion des risques liés à la sécurité informatique
@@ -45,8 +45,8 @@
 ## Gestion des politiques et audit de conformité
 - **Propriétaires** : RSA Archer, ServiceNow GRC
 - **Open Source** :
-  - [Lynis](https://cisofy.com/lynis/) (Outil open source pour l'audit de sécurité et la gestion des politiques de conformité sous Linux)
+  - ❤️ [Lynis](https://cisofy.com/lynis/) (Outil open source pour l'audit de sécurité et la gestion des politiques de conformité sous Linux)
   - [OpenAudit](https://www.open-audit.org/) (Outil d'audit réseau et d'inventaire open source, permettant de vérifier la conformité des actifs réseau)
   - [OSSEC](https://www.ossec.net/) (Outil open source pour la détection d'intrusions et l'audit de conformité en temps réel)
-  - [Wazuh](https://wazuh.com/) (Outil de sécurité open source, avec des modules d'audit de conformité pour les environnements informatiques)
+  - ❤️ [Wazuh](https://wazuh.com/) (Outil de sécurité open source, avec des modules d'audit de conformité pour les environnements informatiques)
 
