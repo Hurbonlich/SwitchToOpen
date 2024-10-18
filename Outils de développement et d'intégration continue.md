@@ -4,7 +4,7 @@
 - **Propriétaires** : Bitbucket (version payante), GitHub (version payante)
 - **Open Source** :
   - [Git](https://git-scm.com/) (Système de contrôle de version décentralisé, open source et largement utilisé)
-  - [Gitea](https://gitea.io/en-us/) (Alternative légère et open source à GitHub, auto-hébergeable)
+  - ❤️ [Gitea](https://gitea.io/en-us/) (Alternative légère et open source à GitHub, auto-hébergeable)
   - [GitLab (version communautaire)](https://about.gitlab.com/) (Plateforme de contrôle de version avec CI/CD intégrée, alternative open source à GitHub)
   - [Fossil](https://www.fossil-scm.org/) (Système de gestion de versions décentralisé, avec suivi des bugs et gestion des tickets intégrés)
   - [Bazaar](https://bazaar.canonical.com/en/) (Système de contrôle de version distribué)
@@ -29,7 +29,7 @@
 ## Gestion des conteneurs et orchestration
 - **Propriétaires** : Docker Enterprise, Red Hat OpenShift
 - **Open Source** :
-  - [Docker](https://www.docker.com/) (Plateforme open source pour la création et l'exécution de conteneurs)
+  - ❤️ [Docker](https://www.docker.com/) (Plateforme open source pour la création et l'exécution de conteneurs)
   - [Kubernetes](https://kubernetes.io/) (Système open source d'orchestration de conteneurs pour le déploiement et la gestion à grande échelle)
   - [Podman](https://podman.io/) (Alternative à Docker, open source et sans démon)
   - [Helm](https://helm.sh/) (Gestionnaire de paquets open source pour Kubernetes)
@@ -55,7 +55,7 @@
 - **Propriétaires** : HashiCorp Terraform (version payante), AWS CloudFormation
 - **Open Source** :
   - [Terraform](https://www.terraform.io/) (Outil open source pour gérer l'infrastructure en tant que code, permettant de provisionner et gérer des services cloud)
-  - [Ansible](https://www.ansible.com/) (Plateforme open source pour l'automatisation des configurations, le déploiement et la gestion des systèmes)
+  - ❤️ [Ansible](https://www.ansible.com/) (Plateforme open source pour l'automatisation des configurations, le déploiement et la gestion des systèmes)
   - [Puppet](https://puppet.com/open-source/) (Outil open source pour l'automatisation de la gestion des infrastructures)
   - [Chef](https://www.chef.io/products/chef-infra) (Outil open source pour la gestion de configuration et l'automatisation des infrastructures)
   - [SaltStack](https://www.saltstack.com/) (Outil d'automatisation et de gestion des configurations open source)
