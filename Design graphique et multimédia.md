@@ -3,7 +3,7 @@
 ## Édition d'images et conception graphique
 - **Propriétaires** : Adobe Photoshop, Adobe Illustrator
 - **Open Source** :
-  - [GIMP](https://www.gimp.org/) (Alternative à Photoshop pour l'édition d'images et la retouche photo)
+  - ❤️ [GIMP](https://www.gimp.org/) (Alternative à Photoshop pour l'édition d'images et la retouche photo)
   - [Inkscape](https://inkscape.org/) (Alternative à Illustrator pour la conception graphique vectorielle)
   - [Krita](https://krita.org/) (Outil open source pour le dessin numérique et la peinture)
   - [Pencil2D](https://www.pencil2d.org/) (Logiciel d'animation 2D simple et léger)
@@ -19,7 +19,7 @@
 ## Modélisation 3D et animation
 - **Propriétaires** : Autodesk Maya, 3ds Max, Cinema 4D
 - **Open Source** :
-  - [Blender](https://www.blender.org/) (Suite complète pour la modélisation 3D, l'animation, le rendu et le montage vidéo)
+  - ❤️ [Blender](https://www.blender.org/) (Suite complète pour la modélisation 3D, l'animation, le rendu et le montage vidéo)
   - [FreeCAD](https://www.freecadweb.org/) (Modélisation 3D paramétrique pour des applications d'ingénierie et de conception)
   - [Wings 3D](http://www.wings3d.com/) (Outil de modélisation 3D simple et open source)
   - [MakeHuman](http://www.makehumancommunity.org/) (Création et modélisation de personnages humains en 3D)
@@ -34,7 +34,7 @@
 ## Édition audio et musique
 - **Propriétaires** : Adobe Audition, Avid Pro Tools
 - **Open Source** :
-  - [Audacity](https://www.audacityteam.org/) (Éditeur audio open source populaire pour l'enregistrement et l'édition de pistes audio)
+  - ❤️ [Audacity](https://www.audacityteam.org/) (Éditeur audio open source populaire pour l'enregistrement et l'édition de pistes audio)
   - [Ardour](https://ardour.org/) (Station de travail audio numérique open source pour l'enregistrement, l'édition et le mixage)
   - [LMMS](https://lmms.io/) (Production de musique numérique et création de rythmes, alternative à FL Studio)
   - [Hydrogen](http://www.hydrogen-music.org/hcms/) (Boîte à rythmes open source pour la création de pistes de percussions)
