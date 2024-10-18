@@ -5,7 +5,7 @@
 - **Open Source** :
   - [Jitsi Meet](https://jitsi.org/jitsi-meet/) (Outil open source de visioconférence, facile à utiliser et à auto-héberger)
   - [BigBlueButton](https://bigbluebutton.org/) (Solution de visioconférence open source conçue pour les environnements d'apprentissage et les webinaires)
-  - [Nextcloud Talk](https://nextcloud.com/talk/) (Module de visioconférence intégré à la plateforme Nextcloud, avec partage d'écran et chat)
+  - ❤️ [Nextcloud Talk](https://nextcloud.com/talk/) (Module de visioconférence intégré à la plateforme Nextcloud, avec partage d'écran et chat)
   - [Matrix + Element](https://element.io/) (Client open source pour les visioconférences, basé sur le protocole Matrix, avec chat et collaboration)
 
 ## Outils de vidéoconférence auto-hébergés
@@ -13,7 +13,7 @@
 - **Open Source** :
   - [OpenMeetings](https://openmeetings.apache.org/) (Outil open source pour organiser des réunions en ligne, avec visioconférence, chat et partage de fichiers)
   - [BigBlueButton](https://bigbluebutton.org/) (Idéal pour les environnements académiques et de formation, avec gestion des réunions et des classes virtuelles)
-  - [Rocket.Chat](https://rocket.chat/) (Solution open source de collaboration d'équipe, incluant une fonctionnalité de visioconférence via Jitsi Meet)
+  - ❤️ [Rocket.Chat](https://rocket.chat/) (Solution open source de collaboration d'équipe, incluant une fonctionnalité de visioconférence via Jitsi Meet)
   - [Mattermost](https://mattermost.com/) (Plateforme de collaboration d'équipe avec intégration de Jitsi pour les visioconférences)
 
 ## Outils de partage d'écran et de collaboration
