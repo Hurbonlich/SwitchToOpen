@@ -1,10 +1,20 @@
 # Outils de développement et d'intégration continue
 
+
+## Environnements de développement intégrés (IDE) et éditeurs de code
+- **Propriétaires** : JetBrains IntelliJ IDEA, Sublime Text
+- **Open Source** :
+  - [Visual Studio Code](https://code.visualstudio.com/) : Éditeur de code open source de Microsoft, très populaire pour son extensibilité et ses fonctionnalités de développement.
+  - [Atom](https://atom.io/) : Éditeur de code open source, développé par GitHub, avec un riche écosystème de plugins.
+  - [Eclipse](https://www.eclipse.org/) : Environnement de développement intégré open source, largement utilisé pour les projets Java.
+  - [Geany](https://www.geany.org/) : Éditeur de texte léger avec des fonctionnalités d'environnement de développement intégré.
+  - [Vim](https://www.vim.org/) : Éditeur de texte open source, puissant et personnalisable, utilisé par les développeurs avancés.
+
 ## Systèmes de contrôle de version
 - **Propriétaires** : Bitbucket (version payante), GitHub (version payante)
 - **Open Source** :
   - [Git](https://git-scm.com/) (Système de contrôle de version décentralisé, open source et largement utilisé)
-  - ❤️ [Gitea](https://gitea.io/en-us/) (Alternative légère et open source à GitHub, auto-hébergeable)
+  - [Gitea](https://gitea.io/en-us/) (Alternative légère et open source à GitHub, auto-hébergeable)
   - [GitLab (version communautaire)](https://about.gitlab.com/) (Plateforme de contrôle de version avec CI/CD intégrée, alternative open source à GitHub)
   - [Fossil](https://www.fossil-scm.org/) (Système de gestion de versions décentralisé, avec suivi des bugs et gestion des tickets intégrés)
   - [Bazaar](https://bazaar.canonical.com/en/) (Système de contrôle de version distribué)
