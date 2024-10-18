@@ -2,4 +2,4 @@
 # SwitchToOpen
 
 
-#SwitchToOpen - Projet collaboratif pour remplacer les outils propriétaires avec des solutions open source.
+#SwitchToOpen - Projet collaboratif de création de liste des solutions open source pour remplacer les outils propriétaires.
