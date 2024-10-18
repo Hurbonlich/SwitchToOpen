@@ -3,7 +3,7 @@
 ## Stockage cloud et synchronisation de fichiers
 - **Propriétaires** : Google Drive, Dropbox, Microsoft OneDrive
 - **Open Source** :
-  - [Nextcloud](https://nextcloud.com/) (Plateforme open source pour le stockage cloud, la synchronisation et le partage de fichiers)
+  - ❤️ [Nextcloud](https://nextcloud.com/) (Plateforme open source pour le stockage cloud, la synchronisation et le partage de fichiers)
   - [Seafile](https://www.seafile.com/en/home/) (Solution de stockage cloud et synchronisation, avec une interface simple et des fonctionnalités de chiffrement)
   - [ownCloud](https://owncloud.com/) (Solution de stockage et synchronisation de fichiers, similaire à Nextcloud)
   - [Syncthing](https://syncthing.net/) (Outil de synchronisation décentralisé entre plusieurs appareils sans passer par un serveur central)
@@ -11,7 +11,7 @@
 ## Systèmes de fichiers distribués
 - **Propriétaires** : Google Cloud Storage, Amazon S3
 - **Open Source** :
-  - [Ceph](https://ceph.io/) (Système de fichiers distribué open source pour le stockage en bloc, objets, et fichiers)
+  - ❤️ [Ceph](https://ceph.io/) (Système de fichiers distribué open source pour le stockage en bloc, objets, et fichiers)
   - [GlusterFS](https://www.gluster.org/) (Système de fichiers distribué open source pour un stockage haute disponibilité)
   - [SeaweedFS](https://github.com/chrislusf/seaweedfs) (Système de fichiers distribué pour des stockages de grande échelle)
   - [IPFS](https://ipfs.io/) (InterPlanetary File System – un système de fichiers distribué et décentralisé)
