@@ -1,4 +1,4 @@
-# Design et multimédia
+# Design et Multimédia
 
 ## Édition d'images et conception graphique
 - **Propriétaires** : Adobe Photoshop, Adobe Illustrator
@@ -30,4 +30,26 @@
   - [Synfig Studio](https://www.synfig.org/) (Outil d'animation 2D vectorielle)
   - [OpenToonz](https://opentoonz.github.io/e/) (Outil d'animation 2D utilisé par les studios d'animation professionnels)
   - [TupiTube](https://www.tupitube.com/) (Logiciel d'animation 2D pour les amateurs et les professionnels)
+
+## Édition audio et musique
+- **Propriétaires** : Adobe Audition, Avid Pro Tools
+- **Open Source** :
+  - [Audacity](https://www.audacityteam.org/) (Éditeur audio open source populaire pour l'enregistrement et l'édition de pistes audio)
+  - [Ardour](https://ardour.org/) (Station de travail audio numérique open source pour l'enregistrement, l'édition et le mixage)
+  - [LMMS](https://lmms.io/) (Production de musique numérique et création de rythmes, alternative à FL Studio)
+  - [Hydrogen](http://www.hydrogen-music.org/hcms/) (Boîte à rythmes open source pour la création de pistes de percussions)
+
+## Création de PDF et édition de documents
+- **Propriétaires** : Adobe Acrobat Pro, Nitro PDF
+- **Open Source** :
+  - [Scribus](https://www.scribus.net/) (Alternative open source à InDesign pour la création de mises en page et de documents PDF)
+  - [PDFsam](https://pdfsam.org/) (Outil open source pour diviser, fusionner et organiser des fichiers PDF)
+  - [LibreOffice Draw](https://www.libreoffice.org/discover/draw/) (Éditeur open source pour manipuler et éditer des fichiers PDF)
+
+## Outils de conception UI/UX
+- **Propriétaires** : Adobe XD, Sketch, Figma
+- **Open Source** :
+  - [Penpot](https://penpot.app/) (Alternative open source à Figma pour la conception UI/UX collaborative)
+  - [Figma-Linux](https://github.com/Figma-Linux/figma-linux) (Client non officiel open source pour Figma sous Linux)
+  - [Akira](https://github.com/akiraux/Akira) (Outil de design UI/UX open source pour Linux)
 
