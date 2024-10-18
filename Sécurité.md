@@ -24,11 +24,19 @@
 ## Gestion des vulnérabilités
 - **Propriétaires** : Qualys, Tenable Nessus Expert...
 - **Open Source** :
-  - [Nessus Essentials]([https://www.openvas.org/](https://fr.tenable.com/products/nessus/nessus-essentials)) (Scanner de vulnérabilités)
+  - [Nessus Essentials](https://fr.tenable.com/products/nessus/nessus-essentials)) (Scanner de vulnérabilités)
   - [OpenVAS](https://www.openvas.org/) (Scanner de vulnérabilités)
   - [Nikto](https://cirt.net/Nikto2) (Scanner de vulnérabilités web)
   - [Wapiti](http://wapiti.sourceforge.net/) (Scanner de vulnérabilités web)
   - [ArcherySec](https://archerysec.github.io/archerysec/) (Gestion des vulnérabilités et tests de sécurité)
+ 
+    
+## Plateformes de gestion et de visualisation des vulnérabilités
+- **Propriétaires** : Qualys VMDR, Kenna Security
+- **Open Source** :
+  - [Faraday](https://faradaysec.com/) (Plateforme open source permettant aux équipes de sécurité de collaborer, d'analyser et de gérer les vulnérabilités de manière centralisée)
+  - [DefectDojo](https://www.defectdojo.org/) (Outil open source conçu pour centraliser et gérer les résultats des scans de vulnérabilités, avec des tableaux de bord pour la gestion des risques)
+  - [Dradis](https://dradisframework.com/) (Plateforme open source pour la gestion des vulnérabilités et des rapports de tests de sécurité)
 
 ## Cryptographie et gestion des clés
 - **Propriétaires** : RSA, Thales...
