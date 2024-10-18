@@ -3,7 +3,7 @@
 ## Collecte, analyse et gestion centralisée des logs
 - **Propriétaires** : Splunk, Datadog, IBM QRadar
 - **Open Source** :
-  - [Graylog](https://www.graylog.org/) (Plateforme open source pour la collecte, l'analyse et la gestion des logs avec interface web intuitive)
+  - ❤️ [Graylog](https://www.graylog.org/) (Plateforme open source pour la collecte, l'analyse et la gestion des logs avec interface web intuitive)
   - [ELK Stack](https://www.elastic.co/what-is/elk-stack) (Suite composée de Elasticsearch, Logstash, et Kibana pour la gestion des logs, l'analyse et la visualisation)
   - [Fluentd](https://www.fluentd.org/) (Collecteur de logs open source, compatible avec plusieurs plateformes)
   - [Loki](https://grafana.com/oss/loki/) (Système de gestion de logs développé par Grafana, conçu pour l'efficacité et l'intégration avec Prometheus)
@@ -11,7 +11,7 @@
 ## Surveillance des événements et détection d'intrusions (SIEM)
 - **Propriétaires** : Splunk Enterprise Security, IBM QRadar, ArcSight
 - **Open Source** :
-  - [Wazuh](https://wazuh.com/) (Plateforme open source de gestion des logs, SIEM et détection des menaces, avec intégration Elasticsearch)
+  - ❤️ [Wazuh](https://wazuh.com/) (Plateforme open source de gestion des logs, SIEM et détection des menaces, avec intégration Elasticsearch)
   - [OSSIM](https://cybersecurity.att.com/products/ossim) (SIEM open source d'AlienVault pour la gestion centralisée des événements de sécurité)
   - [Prelude](https://www.prelude-siem.org/) (SIEM open source modulaire pour la gestion des incidents et la détection d'intrusions)
   - [Security Onion](https://securityonion.net/) (Distribution open source pour la détection des menaces, la surveillance du réseau et la gestion des logs)
