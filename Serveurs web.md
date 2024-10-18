@@ -16,7 +16,7 @@
   - [WildFly](https://www.wildfly.org/) (Serveur d'applications open source flexible pour les applications Java EE)
   - [GlassFish](https://javaee.github.io/glassfish/) (Serveur d'applications open source complet et certifié Java EE)
 
-## 7. Serveurs auto-hébergé "tout-en-un"
+## 7. Serveurs auto-hébergés "tout-en-un"
 - **Propriétaires** : Aucun
 - **Open Source** :
   - [YunoHost](https://yunohost.org/) (Serveur web auto-hébergé tout-en-un, open source et simple à utiliser, qui permet d'héberger facilement des applications comme des blogs, des forums, des wikis, et bien plus)
