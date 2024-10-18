@@ -16,6 +16,15 @@
   - [WildFly](https://www.wildfly.org/) (Serveur d'applications open source flexible pour les applications Java EE)
   - [GlassFish](https://javaee.github.io/glassfish/) (Serveur d'applications open source complet et certifié Java EE)
 
+## 7. Serveurs auto-hébergé "tout-en-un"
+- **Propriétaires** : Aucun
+- **Open Source** :
+  - [YunoHost](https://yunohost.org/) (Serveur web auto-hébergé tout-en-un, open source et simple à utiliser, qui permet d'héberger facilement des applications comme des blogs, des forums, des wikis, et bien plus)
+  - [FreedomBox](https://www.freedombox.org/) (Serveur personnel open source et auto-hébergé, conçu pour offrir un accès facile à des services web privés comme les mails, messagerie, partage de fichiers, etc.)
+  - [Cloudron](https://www.cloudron.io/) (Plateforme open source pour auto-héberger facilement des applications web, avec gestion simplifiée des mises à jour et des backups)
+  - [ArkOS](https://arkos.io/) (Système d'exploitation open source pour auto-héberger des services et applications web en toute simplicité)
+  - [Sandstorm](https://sandstorm.io/) (Plateforme open source qui permet d'auto-héberger et d'utiliser des applications web de manière isolée et sécurisée)
+
 ## Serveurs de proxy inverse et équilibrage de charge
 - **Propriétaires** : F5 Big-IP, Citrix NetScaler
 - **Open Source** :
