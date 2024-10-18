@@ -1,4 +1,4 @@
-[Multimedia](https://youtu.be/fr6KO4qh3Ig)
+![multimedia](./Img/multimedia.gif)
 # Design et Multimédia
 
 ## Édition d'images et conception graphique
