@@ -1,3 +1,5 @@
+# ![Annuaire](./Img/ldap.png)
+
 # Annuaire d'entreprise
 
 ## Serveurs d'annuaires LDAP
