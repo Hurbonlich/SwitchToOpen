@@ -3,7 +3,7 @@
 ## Outils de sauvegarde complets
 - **Propriétaires** : Acronis, Veeam, Carbonite
 - **Open Source** :
-  - [Bacula](https://www.bacula.org/) (Suite de logiciels open source pour la sauvegarde, la récupération et la gestion des données)
+  - ❤️ [Bacula](https://www.bacula.org/) (Suite de logiciels open source pour la sauvegarde, la récupération et la gestion des données)
   - [Restic](https://restic.net/) (Outil de sauvegarde rapide, sécurisé et open source avec déduplication)
   - [Duplicity](http://duplicity.nongnu.org/) (Solution de sauvegarde open source avec chiffrement et sauvegardes incrémentielles)
   - [UrBackup](https://www.urbackup.org/) (Solution open source de sauvegarde client/serveur avec restauration rapide)
@@ -12,7 +12,7 @@
 ## Sauvegarde et synchronisation pour le cloud
 - **Propriétaires** : Google Backup and Sync, Microsoft OneDrive
 - **Open Source** :
-  - [Nextcloud](https://nextcloud.com/) (Plateforme open source pour la synchronisation de fichiers et la sauvegarde dans le cloud)
+  - ❤️ [Nextcloud](https://nextcloud.com/) (Plateforme open source pour la synchronisation de fichiers et la sauvegarde dans le cloud)
   - [Seafile](https://www.seafile.com/en/home/) (Solution de synchronisation de fichiers et de sauvegarde open source avec support du chiffrement)
   - [Rclone](https://rclone.org/) (Outil open source pour la gestion des fichiers et la synchronisation avec des services cloud)
   - [Syncthing](https://syncthing.net/) (Solution de synchronisation open source décentralisée entre appareils)
