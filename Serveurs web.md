@@ -4,7 +4,7 @@
 - **Propriétaires** : Microsoft IIS, Oracle WebLogic
 - **Open Source** :
   - [Apache HTTP Server](https://httpd.apache.org/) (Le serveur web open source le plus utilisé, stable et modulable)
-  - [Nginx](https://www.nginx.com/) (Serveur web performant et léger, souvent utilisé comme proxy inverse ou serveur de cache)
+  - ❤️ [Nginx](https://www.nginx.com/) (Serveur web performant et léger, souvent utilisé comme proxy inverse ou serveur de cache)
   - [Caddy](https://caddyserver.com/) (Serveur web open source avec HTTPS automatique et une configuration simple)
   - [Lighttpd](https://www.lighttpd.net/) (Serveur web léger pour les environnements à faible mémoire ou haute performance)
 
@@ -29,7 +29,7 @@
 - **Propriétaires** : F5 Big-IP, Citrix NetScaler
 - **Open Source** :
   - [HAProxy](http://www.haproxy.org/) (Outil open source de proxy et d'équilibrage de charge très performant, utilisé dans de grandes infrastructures)
-  - [Nginx](https://www.nginx.com/) (Utilisé non seulement comme serveur HTTP, mais aussi comme proxy inverse et équilibrage de charge)
+  - ❤️ [Nginx](https://www.nginx.com/) (Utilisé non seulement comme serveur HTTP, mais aussi comme proxy inverse et équilibrage de charge)
   - [Traefik](https://traefik.io/) (Serveur open source de proxy inverse et d'équilibrage de charge spécialement conçu pour les environnements microservices et conteneurs)
   - [Varnish](https://varnish-cache.org/) (Serveur de cache HTTP et proxy inverse conçu pour accélérer les sites web très fréquentés)
 
