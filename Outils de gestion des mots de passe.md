@@ -3,7 +3,7 @@
 ## Gestionnaires de mots de passe pour les utilisateurs individuels
 - **Propriétaires** : LastPass, 1Password, Dashlane
 - **Open Source** :
-  - [Bitwarden](https://bitwarden.com/) (Gestionnaire de mots de passe open source, auto-hébergeable, avec des applications pour les plateformes mobiles et de bureau)
+  - [Bitwarden](https://bitwarden.com/) (Gestionnaire de mots de passe open source, en SaaS, avec des applications pour les plateformes mobiles et de bureau)
   - [KeePass](https://keepass.info/) (Gestionnaire de mots de passe local, open source et extensible avec des plugins)
   - [KeePassXC](https://keepassxc.org/) (Version communautaire de KeePass, avec des améliorations pour la sécurité et la compatibilité multiplateforme)
   - [Padlock](https://padlock.io/) (Gestionnaire de mots de passe open source simple et léger)
