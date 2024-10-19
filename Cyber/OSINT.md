@@ -1,5 +1,15 @@
 # Outils de reconnaissance et d'OSINT avant le pentest
 
+
+## OSINT général et collecte d'informations sur des cibles
+
+- **[Discover](https://github.com/leebaird/discover)** : Scripts bash personnalisés utilisés pour automatiser diverses tâches de test de pénétration, notamment la reconnaissance, l'analyse,l'énumération et la création de charges utiles malveillantes à l'aide de Metasploit. À utiliser avec Kali Linux..
+- **[OSINT Framework](https://osintframework.com/)** : Site qui regroupe des outils et des ressources pour la collecte d'informations open source.
+- **[ReconDog](https://github.com/s0md3v/ReconDog)** : Outil open source de collecte d'informations et d'OSINT avec des fonctionnalités automatisées pour rechercher des cibles à partir de domaines, adresses IP, etc.
+- **[Datasploit](https://github.com/DataSploit/datasploit)** : Outil OSINT open source conçu pour automatiser la collecte d'informations à partir de différentes sources publiques.
+- **[FOCA](https://github.com/ElevenPaths/FOCA)** : Outil de reconnaissance d'informations publiques sur des serveurs et domaines, en extrayant des métadonnées de documents (PDF, Word, etc.).
+- **[OSRFramework](https://github.com/i3visio/osrframework)** : Suite d'outils pour la collecte d'informations OSINT, y compris des noms d'utilisateur, domaines, adresses e-mail, etc.
+
 ## Collecte d'informations sur les domaines
 - **[whois](https://www.whois.com/)** : Outil permettant de récupérer des informations sur un domaine (propriétaire, registrar, dates d'enregistrement, etc.).
 - **[Sublist3r](https://github.com/aboul3la/Sublist3r)** : Outil open source de collecte de sous-domaines utilisant des sources publiques comme Google, DNSdumpster, et Virustotal.
@@ -24,13 +34,6 @@
 - **[Sherlock](https://github.com/sherlock-project/sherlock)** : Outil de reconnaissance qui permet de rechercher des pseudonymes d'utilisateurs sur plusieurs plateformes sociales (Twitter, Instagram, etc.).
 - **[Twint](https://github.com/twintproject/twint)** : Outil open source permettant de collecter des informations sur des comptes Twitter sans utiliser l'API Twitter officielle.
 - **[GHunt](https://github.com/mxrch/GHunt)** : Outil permettant de collecter des informations sur les comptes Google (Gmail, YouTube, etc.) à partir de sources publiques.
-
-## OSINT général et collecte d'informations sur des cibles
-- **[OSINT Framework](https://osintframework.com/)** : Site qui regroupe des outils et des ressources pour la collecte d'informations open source.
-- **[ReconDog](https://github.com/s0md3v/ReconDog)** : Outil open source de collecte d'informations et d'OSINT avec des fonctionnalités automatisées pour rechercher des cibles à partir de domaines, adresses IP, etc.
-- **[Datasploit](https://github.com/DataSploit/datasploit)** : Outil OSINT open source conçu pour automatiser la collecte d'informations à partir de différentes sources publiques.
-- **[FOCA](https://github.com/ElevenPaths/FOCA)** : Outil de reconnaissance d'informations publiques sur des serveurs et domaines, en extrayant des métadonnées de documents (PDF, Word, etc.).
-- **[OSRFramework](https://github.com/i3visio/osrframework)** : Suite d'outils pour la collecte d'informations OSINT, y compris des noms d'utilisateur, domaines, adresses e-mail, etc.
 
 ## Recherche de fuites de données et de credential stuffing
 - **[Dehashed](https://www.dehashed.com/)** : Moteur de recherche pour les bases de données piratées ou compromises, permettant de vérifier si des comptes ou mots de passe ont été exposés.
