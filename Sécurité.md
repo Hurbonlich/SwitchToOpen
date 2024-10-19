@@ -45,15 +45,6 @@
   - [HashiCorp Vault](https://www.vaultproject.io/) (Gestion des secrets et des clés de chiffrement)
   - [Let’s Encrypt](https://letsencrypt.org/) (Certificats SSL/TLS gratuits et automatisés)
 
-## Tests d'intrusion (Pentesting)
-- **Propriétaires** : Core Impact, Cobalt Strike...
-- **Open Source** :
-  - [Metasploit](https://www.metasploit.com/) (Cadre de tests d'intrusion)
-  - [Nmap](https://nmap.org/) (Analyse des réseaux)
-  - [Wireshark](https://www.wireshark.org/) (Analyse des protocoles réseaux)
-  - [Burp Suite Community](https://portswigger.net/burp/community) (Scanner de sécurité des applications web)
-  - [Aircrack-ng](https://www.aircrack-ng.org/) (Sécurité des réseaux sans fil)
-
 ## Chiffrement de disque et protection des données
 - **Propriétaires** : BitLocker, Symantec Encryption...
 - **Open Source** :
