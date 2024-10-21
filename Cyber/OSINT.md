@@ -4,6 +4,7 @@
 ## OSINT général et collecte d'informations sur des cibles
 
 - **[Discover](https://github.com/leebaird/discover)** : Scripts bash personnalisés utilisés pour automatiser diverses tâches de test de pénétration, notamment la reconnaissance, l'analyse,l'énumération et la création de charges utiles malveillantes à l'aide de Metasploit. À utiliser avec Kali Linux..
+- **[Argus](https://github.com/jasonxtn/Argus)** : Argus est un outil tout-en-un basé sur Python, conçu pour simplifier la collecte d'informations et les opérations de reconnaissance.
 - **[OSINT Framework](https://osintframework.com/)** : Site qui regroupe des outils et des ressources pour la collecte d'informations open source.
 - **[ReconDog](https://github.com/s0md3v/ReconDog)** : Outil open source de collecte d'informations et d'OSINT avec des fonctionnalités automatisées pour rechercher des cibles à partir de domaines, adresses IP, etc.
 - **[Datasploit](https://github.com/DataSploit/datasploit)** : Outil OSINT open source conçu pour automatiser la collecte d'informations à partir de différentes sources publiques.
