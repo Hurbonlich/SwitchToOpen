@@ -1,7 +1,7 @@
 
-# Outils WAF Open Source et Commerciaux
+# Outils WAF Open Source 
 
-## Table des outils WAF Open Source
+
 
 | **Nom de l'outil** | **Langage** | **Caractéristiques principales** | **Lien du projet** |
 |--------------------|-------------|-----------------------------------|--------------------|
