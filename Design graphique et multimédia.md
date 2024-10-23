@@ -1,4 +1,3 @@
-![multimedia](./Img/multimedia.gif)
 # Design et Multimédia
 
 ## Édition d'images et conception graphique
