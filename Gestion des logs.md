@@ -24,11 +24,6 @@
   - [Piwik PRO Analytics](https://piwik.pro/) (Outil de visualisation de données, incluant la gestion des logs)
   - [GoAccess](https://goaccess.io/) (Outil open source léger pour la visualisation en temps réel des logs d'accès web)
 
-## Archivage et gestion des logs à long terme
-  - [Elasticsearch](https://www.elastic.co/elasticsearch/) (Moteur de recherche et de stockage distribué pour indexer et archiver des quantités massives de logs)
-  - [Logrotate](https://linux.die.net/man/8/logrotate) (Outil pour la gestion et la rotation des logs sur les systèmes Unix/Linux)
-  - [TimescaleDB](https://www.timescale.com/) (Extension de PostgreSQL pour gérer des séries temporelles, utilisée pour archiver les logs et les données historiques)
-
 ## Outils de gestion des logs spécifiques aux environnements conteneurisés
   - [Promtail](https://grafana.com/docs/loki/latest/clients/promtail/) (Client pour récupérer et envoyer les logs des conteneurs Docker vers Loki)
   - [Fluent Bit](https://fluentbit.io/) (Collecteur de logs léger pour les environnements conteneurisés comme Kubernetes)
