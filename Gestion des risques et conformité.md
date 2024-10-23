@@ -20,21 +20,19 @@
   - [TheHive](https://thehive-project.org/) (Outil open source pour la gestion des incidents de sécurité et la réponse aux incidents)
   - [MISP](https://www.misp-project.org/) (Outil open source de partage d'informations sur les menaces, utile pour la gestion des risques de sécurité)
   - [Prelude](https://www.prelude-siem.org/) (SIEM open source permettant la détection des menaces et la gestion des incidents, avec surveillance continue des risques)
+  - [CISO Assistant](https://ciso-assistant.io/) (Outil open source pour les CISO et responsables de la sécurité, facilitant la gestion des risques, des audits et de la conformité)
+
 
 ## Outils de gestion de la conformité pour le cloud
   - [Scout Suite](https://github.com/nccgroup/ScoutSuite) (Outil open source de gestion de la sécurité et de la conformité des services cloud tels qu'AWS, Azure et Google Cloud)
   - [Cloud Custodian](https://cloudcustodian.io/) (Outil open source de gestion des politiques de sécurité et de conformité pour les environnements cloud)
   - [Prowler](https://github.com/prowler-cloud/prowler) (Outil open source pour auditer et surveiller la sécurité et la conformité d'AWS)
   - [CloudQuery](https://www.cloudquery.io/) (Outil open source pour auditer et surveiller la sécurité des infrastructures cloud)
+  - [CISO Assistant](https://ciso-assistant.io/) (Outil open source pour les CISO et responsables de la sécurité, facilitant la gestion des risques, des audits et de la conformité)
+
 
 ## Gestion des risques liés aux processus d'entreprise (ERM)
   - [RiskIT](https://github.com/Open-Risk/riskit) (Framework open source pour la gestion des risques dans les processus métiers)
   - [Odoo Risk Management](https://www.odoo.com/app/risk-management) (Module de gestion des risques dans la suite ERP Odoo, permettant l'évaluation des risques liés aux processus d'entreprise)
   - [RiskWatch (open source)](https://www.riskwatch.com/) (Outil de gestion des risques organisationnels, avec des modules pour les processus internes)
-
-## Gestion des politiques et audit de conformité
-  - [Lynis](https://cisofy.com/lynis/) (Outil open source pour l'audit de sécurité et la gestion des politiques de conformité sous Linux)
-  - [OpenAudit](https://www.open-audit.org/) (Outil d'audit réseau et d'inventaire open source, permettant de vérifier la conformité des actifs réseau)
-  - [OSSEC](https://www.ossec.net/) (Outil open source pour la détection d'intrusions et l'audit de conformité en temps réel)
-  - [Wazuh](https://wazuh.com/) (Outil de sécurité open source, avec des modules d'audit de conformité pour les environnements informatiques)
 
