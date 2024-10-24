@@ -14,6 +14,19 @@ Pour naviguer chacune des pages plus confortablement, cliquer l'icône outline p
 - [Cybersécurité](/S%C3%A9curit%C3%A9.md)
 - [Annuaire d'entreprise](/Annuaire%20d'entreprise.md)
 - [Antivirus](/Antivirus.md)
+- [Design graphique et multimédia](/Design%20graphique%20et%20multim%C3%A9dia.md)
+- [Développement et d'intégration continue](/D%C3%A9veloppement%20et%20d'int%C3%A9gration%20continue.md)
+- [Gestion de base de données](/Gestion%20de%20base%20de%20donn%C3%A9es.md)
+- [Gestion de projet](/Gestion%20de%20projet.md)
+- [Gestion des acces distants](/Gestion%20des%20acces%20distants.md)
+- [Gestion des logs](/Gestion%20des%20logs.md)
+- [Gestion des mots de passe](/Gestion%20des%20mots%20de%20passe.md)
+- [Gestion des risques et conformité](/Gestion%20des%20risques%20et%20conformit%C3%A9.md)
+- [Messagerie et collaboration d'équipe](/Messagerie%20et%20collaboration%20d'%C3%A9quipe.md)
+- [Moteurs de recherche](/Moteurs%20de%20recherche.md)
+- [Outils ERP et CRM](/Outils%20ERP%20et%20CRM.md)
+- [Outils SIEM](/Outils%20SIEM.md)
+- 
 
 ## Déclaration d'impartialité
 
