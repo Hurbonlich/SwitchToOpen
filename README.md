@@ -28,7 +28,8 @@ Pour naviguer chacune des pages plus confortablement, cliquer l'icône outline p
 - [Outils SIEM](/Outils%20SIEM.md)
 - [Outils d'analytique et de business intelligence (BI)](/Outils%20d'analytique%20et%20de%20business%20intelligence%20(BI).md)
 - [Outils CTI et de prévention des menaces cyber](/Outils%20de%20pr%C3%A9vention%20des%20menaces%20cyber.md)
-- 
+- [Outils de communication et de visioconférence](/Outils%20de%20communication%20et%20de%20visioconf%C3%A9rence.md)
+- [Outils de reporting](/Outils%20de%20reporting.md)
 
 ## Déclaration d'impartialité
 
