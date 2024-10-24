@@ -30,6 +30,10 @@ Pour naviguer chacune des pages plus confortablement, cliquer l'icône outline p
 - [Outils CTI et de prévention des menaces cyber](/Outils%20de%20pr%C3%A9vention%20des%20menaces%20cyber.md)
 - [Outils de communication et de visioconférence](/Outils%20de%20communication%20et%20de%20visioconf%C3%A9rence.md)
 - [Outils de reporting](/Outils%20de%20reporting.md)
+- [Sauvegarde et récupération de données](/Sauvegarde%20et%20r%C3%A9cup%C3%A9ration%20de%20donn%C3%A9es.md)
+- [Serveurs web](/Serveurs%20web.md)
+- [Stockage et gestion de fichiers](/Stockage%20et%20gestion%20de%20fichiers.md)
+- [Suites bureautiques](/Suites%20bureautiques.md)
 
 ## Déclaration d'impartialité
 
