@@ -34,6 +34,10 @@ Pour naviguer chacune des pages plus confortablement, cliquer l'icône outline p
 - [Serveurs web](/Serveurs%20web.md)
 - [Stockage et gestion de fichiers](/Stockage%20et%20gestion%20de%20fichiers.md)
 - [Suites bureautiques](/Suites%20bureautiques.md)
+- [Systèmes d'exploitation](/Syst%C3%A8mes%20d'exploitation.md)
+- [Systèmes de gestion de contenu(CMS)](/Syst%C3%A8mes%20de%20gestion%20de%20contenu.md)
+- [Virtualisation](/Virtualisation.md)
+- [Web Application Firewall(WAF)](/Web%20Application%20Firewall.md)
 
 ## Déclaration d'impartialité
 
