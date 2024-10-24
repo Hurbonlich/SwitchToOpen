@@ -1,14 +1,13 @@
+# Outils WAF Open Source
 
-# Outils WAF Open Source 
+## Liste des WAF (Web Application Firewall) open source
 
+  - [ModSecurity](https://github.com/SpiderLabs/ModSecurity) (Détection de menaces, prévention des attaques, compatible avec plusieurs serveurs web : Apache, Nginx, IIS)
+  - [Naxsi](https://github.com/nbs-system/naxsi) (WAF léger et simple, basé sur des règles, intégration avec Nginx)
+  - [OpenWAF](https://github.com/OpenWAF/openwaf) (Système modulaire de détection des attaques, avec support pour le machine learning)
+  - [IronWASP](https://github.com/Lavasoft/IronWASP) (Analyseur de failles Web, facile à utiliser avec une interface graphique)
+  - [Shadow Daemon](https://github.com/zecure/shadowd) (Analyse des requêtes HTTP, filtrage des intrusions, compatible avec plusieurs langages de programmation)
+  - [BunkerWeb](https://github.com/bunkerity/bunkerweb) (Sécurité renforcée avec système de plugins pour étendre les fonctionnalités)
+  - [Vulture](https://github.com/nbs-system/vulture-waf) (WAF haute performance basé sur les règles, compatible avec les environnements à grande échelle)
 
-
-| **Nom de l'outil** | **Langage** | **Caractéristiques principales** | **Lien du projet** |
-|--------------------|-------------|-----------------------------------|--------------------|
-| **ModSecurity**     | C/C++       | Détection de menaces, prévention des attaques, compatible avec plusieurs serveurs web (Apache, Nginx, IIS) | [ModSecurity GitHub](https://github.com/SpiderLabs/ModSecurity) |
-| **Naxsi**           | C           | Simple, légère, basée sur des règles, intégration avec Nginx | [Naxsi GitHub](https://github.com/nbs-system/naxsi) |
-| **OpenWAF**         | Python      | Système modulaire de détection des attaques, support de machine learning | [OpenWAF GitHub](https://github.com/OpenWAF/openwaf) |
-| **IronWASP**        | Python/Ruby | Analyseur de failles Web, facile à utiliser avec une interface graphique | [IronWASP GitHub](https://github.com/Lavasoft/IronWASP) |
-| **Shadow Daemon**   | PHP/C       | Analyse des requêtes HTTP, filtrage des intrusions, compatible avec plusieurs langages de programmation | [Shadow Daemon GitHub](https://github.com/zecure/shadowd) |
-| **BunkerWeb**       | Python      | BunkerWeb contient des fonctionnalités de sécurité primaires dans le cadre du noyau, mais peut être facilement étendu avec des fonctionnalités supplémentaires grâce à un système de plugins | [BunkerWeb](https://github.com/bunkerity/bunkerweb) |
 
