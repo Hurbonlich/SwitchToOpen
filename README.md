@@ -11,7 +11,8 @@ Pour naviguer chacune des pages plus confortablement, cliquer l'icône outline p
 
 
 ## Inventaire
-- [Cybersécurité](/S%C3%A9curit%C3%A9.md) 
+- [Cybersécurité](/S%C3%A9curit%C3%A9.md)
+- [Annuaire d'entreprise]([/Annuaire%20d'entreprise.md)
 
 ## Déclaration d'impartialité
 
