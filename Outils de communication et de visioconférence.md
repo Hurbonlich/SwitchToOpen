@@ -1,4 +1,4 @@
-# Outils de visioconférence
+# Outils de communication et de visioconférence
 
 ## Outils de visioconférence pour les équipes
   - [Jitsi Meet](https://jitsi.org/jitsi-meet/) (Outil open source de visioconférence, facile à utiliser et à auto-héberger)
@@ -29,4 +29,26 @@
   - [OpenMeetings](https://openmeetings.apache.org/) (Idéal pour les écoles et les universités, avec partage de fichiers, tableau blanc et réunions en ligne)
   - [OpenVidu](https://openvidu.io/) (Outil open source pour intégrer la visioconférence et le streaming dans des applications web, utilisé dans les environnements professionnels et académiques)
   - [Jami](https://jami.net/) (Plateforme de visioconférence décentralisée et open source, adaptée à des usages professionnels et personnels)
+
+    
+# Serveurs de téléphonie open source
+
+## Outils open source pour la gestion de la téléphonie IP
+
+  - [Asterisk](https://www.asterisk.org/) (Serveur PBX open source le plus populaire pour la gestion des communications téléphoniques, VoIP, et appels vidéo)
+  - [XiVO](https://www.wazo.io/xivo) (Solution de téléphonie open source basée sur Asterisk, dédiée aux communications unifiées avec une interface web intuitive)
+  - [FreeSWITCH](https://freeswitch.com/) (Plateforme open source pour la communication en temps réel avec des fonctionnalités de PBX, WebRTC, et VoIP)
+  - [Kamailio](https://www.kamailio.org/) (Serveur SIP open source permettant de gérer un grand nombre d'appels VoIP et de sessions SIP pour les entreprises)
+  - [Elastix](https://www.elastix.org/) (Solution de téléphonie IP open source basée sur Asterisk, intégrant la gestion de PBX, emails, messagerie instantanée, et fax)
+  - [3CX](https://www.3cx.com/open-source-pbx/) (Solution de PBX open source compatible avec Asterisk, offrant des fonctionnalités de téléphonie IP et des appels vidéo)
+  - [FusionPBX](https://www.fusionpbx.com/) (Interface open source basée sur FreeSWITCH pour gérer un serveur PBX avec des fonctionnalités avancées de VoIP)
+  - [Issabel](https://www.issabel.org/) (Fork d'Elastix, Issabel est une plateforme de communication unifiée intégrant les fonctionnalités de PBX, emails, fax, et chat)
+  - [OpenSIPS](https://opensips.org/) (Serveur SIP open source utilisé pour la gestion des appels VoIP, la passerelle, le routage, et les services de communication)
+  - [Yate](http://yate.ro/) (Outil de téléphonie open source pour la voix, la vidéo, la messagerie et les services de transmission de données, supportant SIP et H323)
+  - [Wazo](https://wazo-platform.org/) (Plateforme de téléphonie open source basée sur Asterisk, dédiée à la gestion des communications unifiées avec API)
+  - [Bluebox](https://blue.box.ipbx.googlepages.com/) (Solution PBX open source avec des fonctionnalités VoIP, basée sur FreeSWITCH, facile à déployer et utiliser)
+  - [Trixbox CE](https://sourceforge.net/projects/trixbox/) (Distribution Asterisk spécialisée dans la gestion de PBX, avec interface web pour la configuration des systèmes de téléphonie IP)
+
+
+  
 
