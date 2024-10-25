@@ -6,6 +6,7 @@
 <summary>Dépiler</summary>
   
   - [OpenLDAP](https://www.openldap.org/) (Serveur d'annuaire LDAP open source, largement utilisé pour la gestion des identités et des accès en entreprise)
+  - [Univention Corporate Server (UCS)](https://www.univention.com/) (Univention Corporate Server est un système d'exploitation de serveur, dérivé de Debian GNU/Linux, doté d'un système de gestion intégré pour l'administration multiplateformes de serveurs, de services, de clients, de bureaux et d'utilisateurs, ainsi que de machines virtuelles...)
   - [389 Directory Server](https://directory.fedoraproject.org/) (Serveur d'annuaire LDAP open source, stable et performant, conçu pour les grandes entreprises)
   - [Apache Directory Server](https://directory.apache.org/) (Serveur d'annuaire LDAP open source, avec une interface utilisateur graphique pour gérer les données LDAP)
   - [FreeIPA](https://www.freeipa.org/) (Système de gestion d'identités et d'annuaire LDAP complet, intégrant également la gestion des politiques de sécurité)
@@ -55,7 +56,7 @@
 <summary>Dépiler</summary>
 
   - [Lsc (LDAP Synchronization Connector)](https://lsc-project.org/) (Outil open source de synchronisation d'annuaires LDAP, avec support pour plusieurs sources de données)
-  - [Univention Corporate Server (UCS)](https://www.univention.com/products/ucs/) (Distribution Linux open source pour la gestion des identités et des accès, avec intégration et synchronisation LDAP)
+  - [Univention Corporate Server (UCS)](https://www.univention.com/) (Univention Corporate Server est un système d'exploitation de serveur, dérivé de Debian GNU/Linux, doté d'un système de gestion intégré pour l'administration multiplateformes de serveurs, de services, de clients, de bureaux et d'utilisateurs, ainsi que de machines virtuelles...)
   - [Syncope](https://syncope.apache.org/) (Plateforme open source de gestion des identités et des accès (IAM), avec des fonctionnalités avancées de synchronisation des utilisateurs entre annuaires)
 
 </details>
