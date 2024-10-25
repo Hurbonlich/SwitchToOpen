@@ -6,6 +6,19 @@
   - [MariaDB](https://mariadb.org/) (Fork de MySQL, avec de nombreuses fonctionnalités avancées et optimisations)
   - [SQLite](https://www.sqlite.org/) (Base de données relationnelle légère et sans serveur)
 
+
+## Outils d'administration de bases de données
+
+  - [pgAdmin](https://www.pgadmin.org/) : Interface graphique open source pour PostgreSQL, offrant des fonctionnalités avancées pour l’administration et la gestion des bases de données.
+  - [DBeaver](https://dbeaver.io/) : Outil open source multi-plateforme et multi-SGBD pour la gestion des bases de données, compatible avec MySQL, PostgreSQL, SQLite, Oracle, et bien d'autres.
+  - [Adminer](https://www.adminer.org/) : Interface légère pour la gestion des bases de données MySQL, PostgreSQL, SQLite, et bien d'autres, utilisable comme alternative à phpMyAdmin.
+  - [HeidiSQL](https://www.heidisql.com/) : Application open source pour la gestion de bases de données MySQL, MariaDB, et PostgreSQL, avec une interface simple et des fonctionnalités avancées.
+  - [Beekeeper Studio](https://www.beekeeperstudio.io/) : Interface de gestion open source pour les bases de données SQL, compatible avec MySQL, PostgreSQL, SQLite et plus encore, offrant une interface moderne et conviviale.
+  - [phpMyAdmin](https://www.phpmyadmin.net/) : Interface open source largement utilisée pour gérer les bases de données MySQL et MariaDB, avec des fonctionnalités complètes pour l'administration.
+  - [Valentina Studio](https://valentina-db.com/en/valentina-studio) : Outil open source de gestion pour plusieurs types de bases de données, dont MySQL, PostgreSQL, SQLite, et SQL Server.
+  - [SQuirreL SQL](http://squirrel-sql.sourceforge.net/) : Client SQL open source écrit en Java, compatible avec plusieurs SGBD (Oracle, PostgreSQL, MySQL, etc.), idéal pour des utilisateurs expérimentés.
+
+
 ## Bases de données NoSQL
   - [MongoDB](https://www.mongodb.com/) (Version communautaire open source pour les bases de données NoSQL orientées documents)
   - [CouchDB](https://couchdb.apache.org/) (Base de données NoSQL orientée documents, avec réplication facile)
