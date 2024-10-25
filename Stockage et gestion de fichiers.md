@@ -1,9 +1,10 @@
 # Stockage et gestion de fichiers
 
-## Stockage cloud et synchronisation de fichiers
-  - [Nextcloud](https://nextcloud.com/) (Plateforme open source pour le stockage cloud, la synchronisation et le partage de fichiers)
+## Stockage et synchronisation de fichiers
+  - [Nextcloud](https://nextcloud.com/) (Plateforme open source pour le stockage cloud ou auto-hébergé, la synchronisation et le partage de fichiers)
   - [Seafile](https://www.seafile.com/en/home/) (Solution de stockage cloud et synchronisation, avec une interface simple et des fonctionnalités de chiffrement)
   - [ownCloud](https://owncloud.com/) (Solution de stockage et synchronisation de fichiers, similaire à Nextcloud)
+  - [Droppy](https://www.droppyjs.com/) (Serveur de stockage de fichiers auto-hébergé avec une interface Web et des capacités pour éditer des fichiers et afficher des médias directement dans le navigateur)
   - [Syncthing](https://syncthing.net/) (Outil de synchronisation décentralisé entre plusieurs appareils sans passer par un serveur central)
 
 ## Systèmes de fichiers distribués
