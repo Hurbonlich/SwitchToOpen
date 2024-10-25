@@ -12,6 +12,8 @@
   - [Git](https://git-scm.com/) (Système de contrôle de version décentralisé, open source et largement utilisé)
   - [Gitea](https://gitea.io/en-us/) (Alternative légère et open source à GitHub, auto-hébergeable)
   - [GitLab (version communautaire)](https://about.gitlab.com/) (Plateforme de contrôle de version avec CI/CD intégrée, alternative open source à GitHub)
+  - [Gogs](https://github.com/gogs/gogs) (Gogs (Go Git Service) est une forge multiplateforme basée sur git écrite en Go)
+  - [Forgejo](https://codeberg.org/forgejo/forgejo) (Forgejo est une forge logiciel légère auto-hébergée)
   - [Fossil](https://www.fossil-scm.org/) (Système de gestion de versions décentralisé, avec suivi des bugs et gestion des tickets intégrés)
   - [Bazaar](https://bazaar.canonical.com/en/) (Système de contrôle de version distribué)
 
