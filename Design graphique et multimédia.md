@@ -33,7 +33,7 @@
   - [FreeCAD](https://www.freecadweb.org/) (Modélisation 3D paramétrique pour des applications d'ingénierie et de conception)
   - [Wings 3D](http://www.wings3d.com/) (Outil de modélisation 3D simple et open source)
   - [MakeHuman](http://www.makehumancommunity.org/) (Création et modélisation de personnages humains en 3D)
-  - [Blender](https://www.blender.org/) (Connu pour ses capacités de modélisation 3D, Blender propose aussi un éditeur vidéo intégré)
+
 
  </details>   
 
