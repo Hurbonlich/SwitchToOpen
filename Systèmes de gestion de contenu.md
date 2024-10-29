@@ -23,7 +23,7 @@
   - [Strapi](https://strapi.io/) (CMS headless open source, entièrement personnalisable et extensible via des plugins)
   - [Directus](https://directus.io/) (CMS headless open source avec une interface intuitive pour la gestion des contenus)
   - [KeystoneJS](https://keystonejs.com/) (CMS headless open source basé sur Node.js, avec des APIs GraphQL)
-  - [Netlify CMS](https://www.netlifycms.org/) (CMS headless open source pour la gestion des contenus, compatible avec les générateurs de sites statiques)
+  - [Decap CMS](https://decapcms.org/) (Anciennement Netlifly CMS est un CMS headless open source pour la gestion des contenus, compatible avec les générateurs de sites statiques)
 
 ## CMS pour les entreprises et les sites à grande échelle
   - [TYPO3](https://typo3.org/) (CMS open source robuste et extensible, adapté aux grandes entreprises et aux sites complexes)
