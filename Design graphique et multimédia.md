@@ -69,6 +69,7 @@
   - [Scribus](https://www.scribus.net/) (Alternative open source à InDesign pour la création de mises en page et de documents PDF)
   - [PDFsam](https://pdfsam.org/) (Outil open source pour diviser, fusionner et organiser des fichiers PDF)
   - [LibreOffice Draw](https://www.libreoffice.org/discover/draw/) (Éditeur open source pour manipuler et éditer des fichiers PDF)
+  - [Stirling PDF](https://stirlingpdf.io/) (Stirling PDF est une boîte à outils PDF open source à auto-héberger (Docker), permettant de gérer et manipuler des fichiers PDF localement via une interface web)
 
  </details>   
 
