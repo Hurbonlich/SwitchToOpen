@@ -11,6 +11,7 @@
   - [Hugo](https://gohugo.io/) (Générateur de sites statiques open source rapide, idéal pour les blogs)
   - [Grav](https://getgrav.org/) (CMS flat-file open source, sans base de données, adapté aux blogs et sites simples)
   - [Pelican](https://blog.getpelican.com/) (CMS générateur de sites statiques, écrit en Python, adapté aux blogs)
+  - [AstroJS](https://astro.build/) (Un générateur de site statique optimisé pour créer des sites web rapides et riches en contenu. Les développeurs peuvent intégrer leurs frameworks et outils préférés, offrant ainsi une grande flexibilité dans la création de projets.)
 
 ## CMS pour le e-commerce
   - [WooCommerce](https://woocommerce.com/) (Extension open source de WordPress pour transformer un site en boutique en ligne)
