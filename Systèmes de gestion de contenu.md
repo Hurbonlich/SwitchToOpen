@@ -44,4 +44,5 @@
   - [Wiki.js](https://wiki.js.org/) (CMS open source pour la création de wikis dynamiques avec support Markdown et interface moderne)
   - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) (CMS open source conçu pour des wikis collaboratifs, utilisé par Wikipedia)
   - [Tiki Wiki CMS Groupware](https://tiki.org/) (CMS open source multi-fonctions pour créer des wikis, des blogs, et des forums)
+  - [Starlight](https://starlight.astro.build/) (Un constructeur de sites de documentation tout-en-un pour Astro, offrant des fonctionnalités avancées comme la localisation améliorée et la persistance de l'état de la barre latérale. Starlight permet de créer facilement des collections de contenu et d'ajouter des documents en utilisant le schéma docsSchema pour structurer votre documentation)
 
