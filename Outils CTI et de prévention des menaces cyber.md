@@ -1,4 +1,4 @@
-# Outils de prévention des menaces cyber
+# Outils CTI et de prévention des menaces cyber
 
 ## Outils open source de prévention des menaces cyber
   - [OpenCTI](https://github.com/OpenCTI-Platform/opencti) (Plateforme open source pour la gestion et le partage des renseignements sur les menaces)
