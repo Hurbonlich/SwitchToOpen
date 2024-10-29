@@ -3,7 +3,7 @@
 ## Serveurs d'annuaires LDAP
 
 <details>
-<summary>Dépiler</summary>
+<summary>Déplier</summary>
   
   - [OpenLDAP](https://www.openldap.org/) (Serveur d'annuaire LDAP open source, largement utilisé pour la gestion des identités et des accès en entreprise)
   - [Univention Corporate Server (UCS)](https://www.univention.com/) (Univention Corporate Server est un système d'exploitation de serveur, dérivé de Debian GNU/Linux, doté d'un système de gestion intégré pour l'administration multiplateformes de serveurs, de services, de clients, de bureaux et d'utilisateurs, ainsi que de machines virtuelles...)
@@ -16,7 +16,7 @@
 ## Plateformes de gestion d'identités (IAM)
 
 <details>
-<summary>Dépiler</summary>
+<summary>Déplier</summary>
   
   - [Keycloak](https://www.keycloak.org/) (Plateforme open source de gestion des identités et des accès, avec des fonctionnalités d'authentification unique (SSO) et de fédération d'identités)
   - [Gluu](https://www.gluu.org/) (Suite de gestion d'identités open source pour l'authentification, l'autorisation et la fédération des identités)
@@ -28,7 +28,7 @@
 ## Annuaire d'entreprise et gestion des contacts
 
 <details>
-<summary>Dépiler</summary>
+<summary>Déplier</summary>
 
   - [EGroupware](https://www.egroupware.org/) (Suite open source de collaboration, intégrant un annuaire d'entreprise pour la gestion des contacts et des utilisateurs)
   - [SOGo](https://sogo.nu/) (Serveur open source collaboratif avec des fonctionnalités d'annuaire d'entreprise, compatible avec des clients Outlook et Thunderbird)
@@ -40,7 +40,7 @@
 ## Solutions d'annuaire d'entreprise avec intégration LDAP
 
 <details>
-<summary>Dépiler</summary>
+<summary>Déplier</summary>
 
   - [FusionDirectory](https://www.fusiondirectory.org/) (Interface de gestion pour OpenLDAP, facilitant la gestion des utilisateurs, des groupes et des ressources dans l'annuaire)
   - [LDAP Account Manager](https://www.ldap-account-manager.org/lamcms/) (Interface web open source pour gérer les utilisateurs et les groupes dans un annuaire LDAP)
@@ -53,7 +53,7 @@
 ## Outils de synchronisation des annuaires
 
 <details>
-<summary>Dépiler</summary>
+<summary>Déplier</summary>
 
   - [Lsc (LDAP Synchronization Connector)](https://lsc-project.org/) (Outil open source de synchronisation d'annuaires LDAP, avec support pour plusieurs sources de données)
   - [Univention Corporate Server (UCS)](https://www.univention.com/) (Univention Corporate Server est un système d'exploitation de serveur, dérivé de Debian GNU/Linux, doté d'un système de gestion intégré pour l'administration multiplateformes de serveurs, de services, de clients, de bureaux et d'utilisateurs, ainsi que de machines virtuelles...)
@@ -64,7 +64,7 @@
 ## Annuaire d'entreprise pour la gestion des ressources
 
 <details>
-<summary>Dépiler</summary>
+<summary>Déplier</summary>
   
   - [iTop](https://www.itophub.io/) (Outil open source de gestion de la configuration (CMDB) et des ressources, avec des fonctionnalités d'annuaire d'entreprise)
   - [GLPI](https://glpi-project.org/) (Système open source de gestion des ressources et des services IT, avec des fonctionnalités d'annuaire et d'inventaire)
