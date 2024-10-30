@@ -1,10 +1,23 @@
 # Welcome to the SwitchToOpen - Your Open soure shift
 
 
-<img src="./Img/switchtoopen2.png"/>
+<img src="./Img/switchtoopen2.png" alt="drawing" width="360" style="display: block;margin-left: auto;margin-right: auto;"/>
 
+##
+**Le but de ce dépôt est de créer une ressource collaborative et exhaustive d’outils open source permettant aux utilisateurs, aux professionnels et aux entreprises de trouver des alternatives aux logiciels propriétaires dans divers domaines, tels que la sécurité, la gestion de réseaux, la bureautique, le développement, etc.**
 
-**SwitchToOpen** - Projet collaboratif de création de liste des solutions open source pour remplacer les outils propriétaires.
+Objectifs principaux :
+- **Promouvoir les solutions open source** : Sensibiliser et encourager l’utilisation d’outils open source qui offrent une indépendance vis-à-vis des grands éditeurs de logiciels propriétaires.
+- **Réduire les coûts** : Proposer des alternatives gratuites pour remplacer des outils coûteux tout en maintenant une qualité professionnelle.
+- **Accroître la transparence** : Les solutions open source permettent une transparence et une sécurité accrues, car le code est ouvert et vérifiable.
+
+Fonctionnalités du dépôt :
+- Organisation par catégories d’outils (antivirus, gestion d’annuaire, développement, etc.) pour faciliter la recherche.
+- Tableaux descriptifs de chaque outil, incluant une description, un lien, et parfois des caractéristiques spécifiques.
+- Collaboratif : La communauté peut contribuer à ajouter de nouveaux outils, mettre à jour les descriptions, et enrichir la liste.
+
+Ce dépôt a vocation à devenir un référentiel central pour tous ceux qui souhaitent adopter un environnement numérique libre et bénéficier des avantages des logiciels open source.
+
 ##
 
 Pour naviguer chacune des pages plus confortablement, cliquer l'icône outline pour afficher la table des matières :
