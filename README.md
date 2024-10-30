@@ -1,15 +1,15 @@
 # Welcome to the SwitchToOpen - Your Open soure shift
 
 
-# ![SwitchToOpen](./Img/switchtoopen2.png)
+<img src="./Img/switchtoopen2.png"/>
 
 
 **SwitchToOpen** - Projet collaboratif de création de liste des solutions open source pour remplacer les outils propriétaires.
-
+##
 
 Pour naviguer chacune des pages plus confortablement, cliquer l'icône outline pour afficher la table des matières :
 
-![outline tip](outline-tip.png)
+<img src="./outline-tip.png" alt="drawing" width="360" style="display: block;margin-left: auto;margin-right: auto;"/>
 
 
 ## Inventaire
