@@ -1,5 +1,7 @@
+# Welcome to the SwitchToOpen - Your Open soure shift
+
+
 # ![SwitchToOpen](./Img/switchtoopen1.png)
-# SwitchToOpen
 
 
 **SwitchToOpen** - Projet collaboratif de création de liste des solutions open source pour remplacer les outils propriétaires.
@@ -11,10 +13,9 @@ Pour naviguer chacune des pages plus confortablement, cliquer l'icône outline p
 
 
 ## Inventaire
-- [Cybersécurité](/S%C3%A9curit%C3%A9.md)
-- [Annuaire d'entreprise](/Annuaire%20d'entreprise.md)
-- [Antivirus](/Antivirus.md)
-- [Design graphique et multimédia](/Design%20graphique%20et%20multim%C3%A9dia.md)
+- [**Annuaire d'entreprise**](/Annuaire%20d'entreprise.md)
+- [**Antivirus**](/Antivirus.md)
+- [**Design graphique et multimédia**](/Design%20graphique%20et%20multim%C3%A9dia.md)
 - [Développement et d'intégration continue](/D%C3%A9veloppement%20et%20d'int%C3%A9gration%20continue.md)
 - [Gestion de base de données](/Gestion%20de%20base%20de%20donn%C3%A9es.md)
 - [Gestion de logiciels de signatures électroniques](/Gestion%20de%20signatures%20%C3%A9lectroniques.md)
@@ -32,6 +33,7 @@ Pour naviguer chacune des pages plus confortablement, cliquer l'icône outline p
 - [Outils de communication et de visioconférence](/Outils%20de%20communication%20et%20de%20visioconf%C3%A9rence.md)
 - [Outils de reporting](/Outils%20de%20reporting.md)
 - [Sauvegarde et récupération de données](/Sauvegarde%20et%20r%C3%A9cup%C3%A9ration%20de%20donn%C3%A9es.md)
+- [Sécurité](/S%C3%A9curit%C3%A9.md)
 - [Serveurs web](/Serveurs%20web.md)
 - [Stockage et gestion de fichiers](/Stockage%20et%20gestion%20de%20fichiers.md)
 - [Suites bureautiques](/Suites%20bureautiques.md)
