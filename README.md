@@ -1,7 +1,7 @@
 # Welcome to the SwitchToOpen - Your Open soure shift
 
 
-# ![SwitchToOpen](./Img/switchtoopen1.png)
+# ![SwitchToOpen](./Img/switchtoopen2.png)
 
 
 **SwitchToOpen** - Projet collaboratif de création de liste des solutions open source pour remplacer les outils propriétaires.
