@@ -13,6 +13,6 @@ Merci de vouloir contribuer à notre dépôt d’outils open source !
 ## Proposer une mise à jour
 - Pour mettre à jour des informations existantes, ouvrez une issue ou un pull request en expliquant le changement.
 - Utilisez les étiquettes adéquates.
-- 
+  
 ## Signaler un Lien cassé
 - Ouvrez une issue et sélectionnez l'étiquette `Remonter une erreur`.
