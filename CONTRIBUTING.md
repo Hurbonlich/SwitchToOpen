@@ -3,7 +3,7 @@
 Merci de vouloir contribuer à notre dépôt d’outils open source !
 
 ## Ajouter un outil
-- **Format** : Ajoutez l'outil dans le fichier de la catégorie appropriée (`Sécurité.md`, `WAF.md`, etc.).
+- **Format** : Ajoutez l'outil dans le fichier de la catégorie appropriée (`Sécurité.md`, `Web Application Firewall.md`, etc.).
 - **Informations nécessaires** :
   - Nom de l’outil
   - Description en quelques mots
