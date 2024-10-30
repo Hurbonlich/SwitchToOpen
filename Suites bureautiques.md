@@ -19,7 +19,6 @@
   - [Calligra Sheets](https://calligra.org/sheets/) (Outil de tableur intégré à Calligra Suite)
 
 ## Présentations
-- **Open Source** :
   - [LibreOffice Impress](https://www.libreoffice.org/discover/impress/) (Outil de création de présentations, similaire à PowerPoint, intégré à LibreOffice)
   - [OnlyOffice Presentation](https://www.onlyoffice.com/) (Outil de présentation collaboratif, compatible avec les formats PowerPoint)
   - [Calligra Stage](https://calligra.org/stage/) (Outil de présentation intégré à la suite Calligra)
