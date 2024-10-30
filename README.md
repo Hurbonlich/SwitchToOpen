@@ -13,7 +13,7 @@ Objectifs principaux :
 
 Fonctionnalités du dépôt :
 - Organisation par catégories d’outils (antivirus, gestion d’annuaire, développement, etc.) pour faciliter la recherche.
-- Tableaux descriptifs de chaque outil, incluant une description, un lien, et parfois des caractéristiques spécifiques.
+- Informations sur chaque outil, incluant une description, un lien, et parfois des caractéristiques spécifiques.
 - Collaboratif : La communauté peut contribuer à ajouter de nouveaux outils, mettre à jour les descriptions, et enrichir la liste.
 
 Ce dépôt a vocation à devenir un référentiel central pour tous ceux qui souhaitent adopter un environnement numérique libre et bénéficier des avantages des logiciels open source.
