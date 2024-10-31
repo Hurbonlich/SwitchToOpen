@@ -2,9 +2,6 @@
 
 ## Security information and event management open source
 
-<details>
-<summary>Dépiler</summary>
-
   - [Wazuh](https://wazuh.com/) : Plateforme SIEM open source pour la détection des menaces et la gestion des incidents
   - [OSSEC](http://www.ossec.net) : Open Source HIDS SECurity est un système de détection d'intrusion gratuit et open source basé sur l'hôte
   - [ELK Stack](https://www.elastic.co/elk-stack) : Suite open source pour la collecte, l'analyse et la visualisation des logs, souvent utilisée comme SIEM
@@ -14,7 +11,7 @@
   - [MozDef](https://github.com/mozilla/MozDef) : SIEM open source développé par Mozilla pour automatiser la réponse aux incidents de sécurité
   - [SIEMonster](https://siemonster.com/) : Solution SIEM open source scalable pour la surveillance des événements de sécurité
 
- </details>   
+
 
 
 
