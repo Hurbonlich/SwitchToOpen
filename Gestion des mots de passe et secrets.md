@@ -3,7 +3,7 @@
 ## Gestionnaires de mots de passe pour les utilisateurs individuels
   - [Bitwarden](https://bitwarden.com/) (Gestionnaire de mots de passe open source, en SaaS, avec des applications pour les plateformes mobiles et de bureau)
   - [KeePass](https://keepass.info/) (Gestionnaire de mots de passe local, open source et extensible avec des plugins)
-  - [KeePassXC](https://keepassxc.org/) (Version communautaire de KeePass, avec des améliorations pour la sécurité et la compatibilité multiplateforme)
+  - [KeePassXC](https://keepassxc.org/) (Fork de KeePass, il permet notamment de partager un coffre de mots de passe au sein d'une équipe IT)
   - [Padlock](https://padlock.io/) (Gestionnaire de mots de passe open source simple et léger)
 
 ## Gestionnaires de mots de passe pour les équipes et les entreprises
