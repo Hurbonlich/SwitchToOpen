@@ -1,13 +1,13 @@
 # Gestion de projets
 
 ## Outils de gestion de projets
-  - [OpenProject](https://www.openproject.org/) (Outil complet de gestion de projets avec Gantt, gestion des tâches, et suivi des ressources)
-  - [Taiga](https://www.taiga.io/) (Plateforme de gestion de projets agile, avec gestion des tâches et des sprints)
-  - [Wekan](https://wekan.github.io/) (Alternative open source à Trello avec des tableaux Kanban pour la gestion des tâches)
-  - [Kanboard](https://kanboard.org/) (Outil simple de gestion de projets basé sur des tableaux Kanban)
-  - [Focalboard](https://github.com/mattermost-community/focalboard) (Focalboard est un outil de gestion de projet open source, multilingue et auto-hébergé)
-  - [Restyaboard](https://restya.com/board/) (Alternative open source à Trello avec de nombreuses fonctionnalités supplémentaires)
-  - [Leantime](https://github.com/Leantime/leantime) (Outil de gestion de projet open source conçu pour les non-gestionnaires de projet. Conçu en tenant compte des besoins des personnes avec TDAH, dyslexie et autisme) 
+  - [OpenProject](https://www.openproject.org/) : Outil complet de gestion de projets avec Gantt, gestion des tâches, et suivi des ressources
+  - [Taiga](https://www.taiga.io/) : Plateforme de gestion de projets agile, avec gestion des tâches et des sprints
+  - [Wekan](https://wekan.github.io/) : Alternative open source à Trello avec des tableaux Kanban pour la gestion des tâches
+  - [Kanboard](https://kanboard.org/) : Outil simple de gestion de projets basé sur des tableaux Kanban
+  - [Focalboard](https://github.com/mattermost-community/focalboard) : Focalboard est un outil de gestion de projet open source, multilingue et auto-hébergé
+  - [Restyaboard](https://restya.com/board/) : Alternative open source à Trello avec de nombreuses fonctionnalités supplémentaires
+  - [Leantime](https://github.com/Leantime/leantime) : Outil de gestion de projet open source conçu pour les non-gestionnaires de projet. Conçu en tenant compte des besoins des personnes avec TDAH, dyslexie et autisme
 
 ## Gestion des équipes et collaboration
   - [Mattermost](https://mattermost.com/) (Plateforme open source pour la collaboration d'équipe avec des fonctionnalités de gestion de tâches)
