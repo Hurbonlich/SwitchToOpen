@@ -15,7 +15,7 @@
 
 - [Orbot](https://github.com/guardianproject/orbot) (TOR)
 
-- [Bitmask]https://0xacab.org/leap/bitmask_android (VPN)
+- [Bitmask](https://0xacab.org/leap/bitmask_android) (VPN)
 
 - [Termux](https://github.com/termux/termux-app) (Terminal linux) (Emulateur de terminal pour Android qui permet d'exécuter un environnement Linux sur un appareil Android)
 
