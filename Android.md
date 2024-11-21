@@ -17,7 +17,7 @@
 
 - [Bitmask](https://0xacab.org/leap/bitmask_android) (VPN)
 
-- [Termux](https://github.com/termux/termux-app) (Terminal linux) (Emulateur de terminal pour Android qui permet d'exécuter un environnement Linux sur un appareil Android)
+- [Termux](https://github.com/termux/termux-app) (Emulateur de terminal pour Android qui permet d'exécuter un environnement Linux sur un appareil Android)
 
 - [AnLinux](https://github.com/EXALAB/AnLinux-App) (Permet de simplifier l’installation de systèmes linux via termux sans devoir être root)
 
