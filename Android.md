@@ -1,5 +1,5 @@
 # Outils Android Open Source
-## Liste de logiciel pour mieux utiliser/gérer son Smarthphone
+## Liste de logiciels pour mieux utiliser/gérer son Smarthphone
 
 - [F-Droid](https://f-droid.org/) (Catalogue FOSS pour Android)
 
